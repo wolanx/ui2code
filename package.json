@@ -1,0 +1,16 @@
+{
+  "name": "wolan-ui2code",
+  "version": "1.0.0",
+  "description": "Your Figma plugin",
+  "main": "src/code.js",
+  "scripts": {
+    "build": "npx spack"
+  },
+  "author": "zx5435",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.39.1",
+    "@swc/cli": "^0.1.52",
+    "@swc/core": "^1.2.118"
+  }
+}
